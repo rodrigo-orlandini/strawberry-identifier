@@ -1,0 +1,15 @@
+venv
+__pycache__
+
+models/**/eval
+models/**/train
+models/**/ckpt*
+models/**/checkpoint
+
+images
+libs
+
+results
+
+generate_tfrecord.py
+steps.txt
