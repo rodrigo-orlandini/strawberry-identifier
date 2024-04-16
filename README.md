@@ -1,6 +1,6 @@
 # Strawberry Identifier 🍓🧠
 
-On the ending of 2022, I was finishing my bachelor's degree and delivering my final paper to be approved.
+At the end of 2022, I was finishing my bachelor's degree and delivering my final paper to be approved.
 
 The project developed in the final paper is an embedded system based on artificial intelligence to identify and catch ripe strawberries in a plantation. You can find more details [here](https://github.com/rodrigo-orlandini/automation-eng-final-paper).
 
